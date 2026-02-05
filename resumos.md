@@ -12,10 +12,16 @@ A renda variável engloba ativos sem retorno garantido, como ações, fundos, ET
 A renda fixa é composta por investimentos com regras de retorno previamente definidas, como CDB, Tesouro Direto e LCI/LCA. Possui menor risco e maior previsibilidade, sendo indicada para perfis conservadores ou para quem busca segurança.
 
 ## Diferença entre Juros Simples e Juros Compostos
+<img width="900" height="556" alt="image" src="https://github.com/user-attachments/assets/771c8c50-6c68-44b8-9db2-dc25ddbcc01d" />
+
 Os juros simples são calculados apenas sobre o valor inicial investido ou emprestado. Já os juros compostos incidem sobre o valor inicial somado aos juros acumulados ao longo do tempo, caracterizando o efeito conhecido como "juros sobre juros", responsável pelo crescimento acelerado do capital no longo prazo.
 
 ## Inflação e Poder de Compra
+<img width="1080" height="1350" alt="image" src="https://github.com/user-attachments/assets/2f77bb2f-01d4-4941-bf6a-9c5e44bee5a9" />
+
 A inflação representa o aumento contínuo dos preços de bens e serviços. Ela reduz o poder de compra porque, à medida que os preços sobem, a mesma quantidade de dinheiro passa a adquirir menos produtos. Para preservar o valor real do capital, é necessário que os rendimentos superem a inflação.
 
 ## Impacto dos Juros nas Dívidas
+<img width="1024" height="928" alt="image" src="https://github.com/user-attachments/assets/1956e929-ec3c-4809-8f09-21d148cb8cef" />
+
 Os juros aumentam o valor total das dívidas, tornando o custo do dinheiro mais elevado. Taxas altas comprometem o orçamento e reduzem a capacidade de consumo e investimento. A queda das taxas, por outro lado, tende a aliviar o custo das dívidas e melhorar a saúde financeira.
