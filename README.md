@@ -1,5 +1,5 @@
 # Renda Fixa x Renda Variável
-
+- (https://www.infomoney.com.br/guias/profissoes-do-mercado-financeiro/)
 ## Descrição do Projeto
 Este projeto tem como objetivo criar um miniguia de estudo sobre os conceitos de renda fixa e renda variável, utilizando o NotebookLM como ferramenta de apoio à aprendizagem ativa.
 
