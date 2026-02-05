@@ -3,7 +3,7 @@
 ## Descrição do Projeto
 Este projeto tem como objetivo criar um miniguia de estudo sobre os conceitos de renda fixa e renda variável, utilizando o NotebookLM como ferramenta de apoio à aprendizagem ativa.
 
-## Objetivos de Estudo
+##  Objetivos de Estudo
 - Compreender os conceitos de renda fixa e renda variável.  
 - Identificar diferenças entre risco, retorno e liquidez.  
 - Reconhecer exemplos de investimentos no Brasil.  
