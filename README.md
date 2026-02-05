@@ -1,5 +1,7 @@
 # Renda Fixa x Renda Variável
-- [foto] (https://www.infomoney.com.br/wp-content/uploads/2020/03/GettyImages-1186283017-low.jpg?fit=1700%2C1133&quality=50&strip=all)
+
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/ad9ba06d-b782-4125-9814-cb1eb223e197" />
+
 ## Descrição do Projeto
 Este projeto tem como objetivo criar um miniguia de estudo sobre os conceitos de renda fixa e renda variável, utilizando o NotebookLM como ferramenta de apoio à aprendizagem ativa.
 
