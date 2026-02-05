@@ -1,6 +1,9 @@
 # Resumos Gerados
 
 ## Renda Variável
+<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/121be191-7f5c-4ef4-b5c2-9a342279aaf7" />
+
+
 A renda variável engloba ativos sem retorno garantido, como ações, fundos, ETFs e BDRs. Diferente da renda fixa, sofre oscilações por fatores econômicos, oferecendo maior potencial de lucro ou prejuízo. Recomenda-se para o longo prazo e para investidores que já possuem reserva de emergência.
 
 ## Renda Fixa
