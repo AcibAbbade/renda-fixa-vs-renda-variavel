@@ -7,6 +7,8 @@
 A renda variável engloba ativos sem retorno garantido, como ações, fundos, ETFs e BDRs. Diferente da renda fixa, sofre oscilações por fatores econômicos, oferecendo maior potencial de lucro ou prejuízo. Recomenda-se para o longo prazo e para investidores que já possuem reserva de emergência.
 
 ## Renda Fixa
+<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/e823b2ef-3094-4a12-b159-c1e5f979d37e" />
+
 A renda fixa é composta por investimentos com regras de retorno previamente definidas, como CDB, Tesouro Direto e LCI/LCA. Possui menor risco e maior previsibilidade, sendo indicada para perfis conservadores ou para quem busca segurança.
 
 ## Diferença entre Juros Simples e Juros Compostos
